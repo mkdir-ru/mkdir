@@ -53,7 +53,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mkdir-ru/mkdir/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mkdir-ru/mkdir/refs/heads/main/output/snake.yml" alt="Snake animation" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
